@@ -1,0 +1,88 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboard",
+      "icon": "home",
+      "slug": "dashboard"
+    },
+    {
+      "url": "manageinstance",
+      "name": "Manage Instance",
+      "icon": "mail",
+      "slug": "manageinstance"
+    },
+    {
+      "url": "single-messages",
+      "name": "Single Message",
+      "icon": "send",
+      "slug": "single-messages"
+    },
+    {
+      "url": "template",
+      "name": "Manage Templates",
+      "icon": "file-text",
+      "slug": "template"
+    },
+    {
+      "url": "app/calendar",
+      "name": "Messages Logs",
+      "icon": "folder",
+      "slug": "app-calendar"
+    },
+    {
+      "url": "app/kanban",
+      "name": "Poll Report",
+      "icon": "bar-chart-2",
+      "slug": "app-kanban"
+    },
+    {
+      "url": "phonebook",
+      "name": "My Phonebook",
+      "icon": "book-open",
+      "slug": "phonebook"
+    },
+    {
+      "url": "chatbot",
+      "name": "Chatbot",
+      "icon": "message-circle",
+      "slug": "chatbot"
+    },
+    {
+      "url": "bulk",
+      "name": "Bulk Messages",
+      "icon": "clipboard",
+      "slug": "bulk"
+    },
+    {
+      "url": "app/kanban",
+      "name": "Api Access",
+      "icon": "link-2",
+      "slug": "app-kanban"
+    },
+    {
+      "url": "scrap",
+      "name": "Scrap Data",
+      "icon": "download-cloud",
+      "slug": "scrap"
+    },
+    {
+      "url": "subs",
+      "name": "Subscription",
+      "icon": "globe",
+      "slug": "subs"
+    },
+    {
+      "url": "ping",
+      "name": "Ping",
+      "icon": "message-circle",
+      "slug": "ping"
+    },
+    {
+      "url": "webchat",
+      "name": "Web Chat",
+      "icon": "monitor",
+      "slug": "webchat"
+    }
+  ]
+}
